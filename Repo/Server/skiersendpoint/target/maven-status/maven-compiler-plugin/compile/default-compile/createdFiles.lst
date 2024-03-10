@@ -1,0 +1,5 @@
+com\project\skiersendpoint\skiersservlet.class
+com\project\skiersendpoint\SkierRequest.class
+com\project\skiersendpoint\Skier.class
+com\project\skiersendpoint\SkierRepository.class
+com\project\skiersendpoint\SkiersendpointApplication.class
